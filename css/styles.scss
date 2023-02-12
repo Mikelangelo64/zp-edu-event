@@ -3191,7 +3191,7 @@ section {
         
         //.event-article-details__value 
         &__value {
-            line-height: inherit;
+            line-height: 140%;
             color: var(--color-blue-200);
 
             @include viewport-tablet-min {
